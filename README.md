@@ -12,7 +12,7 @@
 | **Project Type** | Web Application Security Assessment |
 | **Assessment Focus** | Manual and Automated SQL Injection Validation |
 | **Target** | Intentionally vulnerable training webpage — Bricks login form |
-| **Prepared By** | Senior Security Analyst |
+| **Prepared By** | Olayemi Owoeye — Security Analyst |
 | **Document Purpose** | GitHub portfolio documentation and technical project evidence |
 | **Authorisation** | Authorised educational context — designated training target |
 
@@ -302,9 +302,8 @@ sql-injection-assessment/
 
 ## Author
 
-**Senior Cybersecurity Analyst | Loram Maintenance of Way**
+**Cybersecurity Analyst | HyperTechAi**
 Certifications: CCNA | Microsoft Azure | AWS | CompTIA Security+ | Python
-Education: Post-Graduate Diploma in Business Analytics | Diploma in French
 Currently pursuing: Advanced Cybersecurity Specialisation
 
 ---
