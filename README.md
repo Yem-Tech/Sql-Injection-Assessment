@@ -100,21 +100,21 @@ cat SQL.txt
 ### Screenshot 1 — Navigating to the Kali wordlist directory
 > *Shows navigation from `/home/kali` through `/usr/share/wfuzz` to confirm wordlist availability*
 
-![Navigating to wfuzz wordlist](screenshots/01-wordlist-navigation.png)
+![Navigating to wfuzz wordlist](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/01-kali_true_statement.png)
 
 ---
 
 ### Screenshot 2 — Locating the SQL Injection wordlist
 > *Shows the Injections folder contents including SQL.txt, confirming the reference payload list is available*
 
-![SQL injection wordlist folder](screenshots/02-injection-wordlist-folder.png)
+![SQL injection wordlist folder](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/02-sql-injection_kali_statement.png)
 
 ---
 
 ### Screenshot 3 — SQL Injection payload reference (sanitised)
 > *Shows the SQL.txt wordlist file opened — payload strings are intentionally obscured in this published version in accordance with responsible disclosure standards*
 
-![SQL.txt wordlist - sanitised](screenshots/03-sql-wordlist-blurred.png)
+![SQL.txt wordlist - sanitised](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/03-sql-wordlist-blurred.png)
 
 ---
 
@@ -131,14 +131,14 @@ Burp Suite Community Edition was launched from the Kali terminal and configured 
 ### Screenshot 4 — Burp Suite launch
 > *Shows Burp Suite Community Edition launching from the Kali terminal*
 
-![Burp Suite launching](screenshots/04-burpsuite-launch.png)
+![Burp Suite launching](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/04-burpsuite_kali.png)
 
 ---
 
 ### Screenshot 5 — Burp Suite interface with intercept off
 > *Shows the Burp Suite Proxy tab with intercept in the off state before testing begins*
 
-![Burp Suite intercept off](screenshots/05-burpsuite-intercept-off.png)
+![Burp Suite intercept off](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/05-burpsuite-intercept_off.png)
 
 ---
 
@@ -149,7 +149,7 @@ The intentionally vulnerable Bricks login form was opened alongside Burp Suite t
 ### Screenshot 6 — Target login page and Burp Suite interface
 > *Shows the Bricks login form (the assessment target) alongside the Burp Suite proxy interface*
 
-![Target login page](screenshots/06-target-login-page.png)
+![Target login page](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/06-burpsuite-interface.png)
 
 ---
 
@@ -160,7 +160,7 @@ Burp Suite intercept was enabled. Test credentials were submitted through the lo
 ### Screenshot 7 — Intercept enabled with credentials entered
 > *Shows Burp Suite intercept turned on and test credentials visible in the login form*
 
-![Intercept on with credentials](screenshots/07-burpsuite-intercept-on.png)
+![Intercept on with credentials](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/07-burpsuite-intercept_on.png)
 
 ---
 
@@ -171,7 +171,7 @@ The intercepted POST request was reviewed in Burp Suite, confirming the HTTP met
 ### Screenshot 8 — POST request captured in Burp Suite
 > *Shows the full intercepted HTTP POST request including headers and parameter structure*
 
-![POST request captured](screenshots/08-burpsuite-post-captured.png)
+![POST request captured](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/08-burpsuite-capture_submit.png)
 
 ---
 
@@ -189,14 +189,14 @@ mousepad sqlfile.txt
 ### Screenshot 9 — Request saved to sqlfile.txt
 > *Shows the sql_project directory creation and the captured request saved to sqlfile.txt via Mousepad*
 
-![Request saved to file](screenshots/09-request-saved-to-file.png)
+![Request saved to file](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/09-burpsuite-usernpass_saved.png)
 
 ---
 
 ### Screenshot 10 — Request file contents confirmed
 > *Shows the contents of sqlfile.txt confirming the full POST request was saved correctly for sqlmap input*
 
-![Request file contents](screenshots/10-request-file-contents.png)
+![Request file contents](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/10-bursquite-pasted_sqlfiletxt.png)
 
 ---
 
@@ -211,7 +211,7 @@ sqlmap -l sqlfile.txt -p passwd
 ### Screenshot 11 — sqlmap initialised
 > *Shows sqlmap launching successfully and parsing the saved request file*
 
-![sqlmap initialised](screenshots/11-sqlmap-initialised.png)
+![sqlmap initialised](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/Screenshots/11-sqlmap-in_kali.png)
 
 ---
 
