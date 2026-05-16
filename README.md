@@ -302,8 +302,8 @@ sql-injection-assessment/
 
 ## Author
 
-**Cybersecurity Analyst | HyperTechAi**
-Certifications: CCNA | Microsoft Azure | AWS | CompTIA Security+ | Python
+**Olayemi Owoeye | Cybersecurity Analyst | Security Awareness Researcher | Offensive Security Enthusiast | HyperTechAi**
+Certifications: CCNA | Microsoft Azure | AWS | CompTIA Security+ | Python | Cybersecurity
 Currently pursuing: Advanced Cybersecurity Specialisation
 
 ---
