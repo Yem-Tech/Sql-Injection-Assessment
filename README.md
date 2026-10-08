@@ -2,6 +2,9 @@
 
 An educational web application security assessment documenting HTTP request capture, automated SQL injection testing, and database schema enumeration.
 
+> **Screenshot note:** Images are privacy-edited copies with target identifiers redacted. AI-assisted editing may have altered small text details. Original captures are retained privately.
+
+
 ## Project Overview
 
 This project examined a Bricks training application's login form using Kali Linux, Burp Suite, and sqlmap.
