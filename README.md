@@ -1,4 +1,4 @@
-# SQL Injection Assessment
+# SQL Injection Assessment of a Bricks Training Application Using Burp Suite and sqlmap
 ### Web Application Security Assessment — Manual and Automated Validation
 
 > **Confidentiality Notice:** This report documents testing performed against an intentionally vulnerable training webpage for educational and portfolio purposes within an authorised context. Sensitive exploit strings, dumped data, and unsafe operational detail are intentionally excluded from this document in accordance with responsible disclosure standards.
